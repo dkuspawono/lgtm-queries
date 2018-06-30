@@ -14,4 +14,4 @@ by [R3m0t](https://en.wikipedia.org/wiki/User:R3m0t) and various authors, used u
 [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
 The ["typo database"](javascript/Expressions/TypoDatabase.qll) is licensed under
 [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
-by [Semmle Ltd.](https://semmle.com)
+oleh [Semmle Ltd.] (https://semmle.com)
